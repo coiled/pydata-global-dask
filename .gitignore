@@ -1,4 +1,7 @@
 dask-worker-space/
+data/flightjson
+data/nycflights
+*.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

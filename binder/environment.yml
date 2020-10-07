@@ -6,6 +6,7 @@ dependencies:
   - dask=2.27.0
   - fsspec=0.8.3
   - s3fs=0.5.1
+  - python-graphviz
   # JupyterLab extensions
   - nodejs
   - jupyterlab>=2.0.0
