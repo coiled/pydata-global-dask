@@ -1,13 +1,67 @@
 {
-  "data": {
-    "file-browser-filebrowser:cwd": {
-      "path": ""
+    "data": {
+        "layout-restorer:data": {
+            "main": {
+                "dock": {
+                    "type": "tab-area",
+                    "currentIndex": 0,
+                    "widgets": [
+                        "notebook:0-overview.ipynb",
+                        "notebook:1-delayed.ipynb",
+                        "notebook:2-dataframe.ipynb",
+                        "notebook:3-schedulers.ipynb"
+                    ]
+                },
+                "mode": "multiple-document",
+                "current": "notebook:0-overview.ipynb"
+            },
+            "left": {
+                "collapsed": false,
+                "current": "filebrowser",
+                "widgets": [
+                    "filebrowser",
+                    "running-sessions",
+                    "dask-dashboard-launcher",
+                    "command-palette",
+                    "jp-property-inspector",
+                    "tab-manager",
+                    "extensionmanager.main-view"
+                ]
+            },
+            "right": {
+                "collapsed": true,
+                "widgets": []
+            }
+        },
+        "dask-dashboard-launcher": {
+            "url": "DASK_DASHBOARD_URL"
+        },
+        "notebook:0-overview.ipynb": {
+            "data": {
+                "path": "0-overview.ipynb",
+                "factory": "Notebook"
+            }
+        },
+        "notebook:1-delayed.ipynb": {
+            "data": {
+                "path": "1-delayed.ipynb",
+                "factory": "Notebook"
+            }
+        },
+        "notebook:2-dataframe.ipynb": {
+            "data": {
+                "path": "2-dataframe.ipynb",
+                "factory": "Notebook"
+            }
+        },
+        "notebook:3-schedulers.ipynb": {
+            "data": {
+                "path": "3-schedulers.ipynb",
+                "factory": "Notebook"
+            }
+        }
     },
-    "dask-dashboard-launcher": {
-      "url": "DASK_DASHBOARD_URL"
+    "metadata": {
+        "id": "/lab"
     }
-  },
-  "metadata": {
-    "id": "/lab"
-  }
 }
