@@ -2,9 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coiled/pydata-global-dask/master?urlpath=lab)
 
-🚨🚨 The materials here are still under active development! 🚨🚨
-
-Please check back later (PyData Global 2020 is November 11th - 15th)
+This repository contains the materials for the "Scaling your data work with Dask" tutorial at PyData Global 2020.
 
 ## Running the tutorial
 
